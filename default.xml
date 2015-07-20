@@ -5,4 +5,7 @@
 
   <project path="simtools" name="lsolanka/simtools" remote="github" />
 
+  <default revision="refs/heads/master"
+           remote="github" />
+
 </manifest>
