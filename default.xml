@@ -3,9 +3,10 @@
 
   <remote  name="github" fetch="ssh://git@github.com" />
 
-  <project path="simtools" name="lsolanka/simtools" remote="github" />
-
   <default revision="refs/heads/master"
            remote="github" />
+
+  <project path="simtools"  name="lsolanka/simtools" />
+  <project path="gridcells" name="lsolanka/gridcells" />
 
 </manifest>
