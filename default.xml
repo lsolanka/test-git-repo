@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
-  <remote  name="aosp"
+  <remote  name="github"
       fetch="git@github.com:lsolanka" />
 
-  <project path="simtools" name="lsolanka/simtools" />
+  <project path="simtools" name="lsolanka/simtools" remote="github" />
 
 </manifest>
