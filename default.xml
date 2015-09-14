@@ -6,7 +6,7 @@
   <default revision="refs/heads/master"
            remote="github" />
 
-  <project path="simtools"  name="lsolanka/simtools" />
+  <project path="simtools"  name="lsolanka/simtools" revision="test-repo" />
   <project path="gridcells" name="lsolanka/gridcells" />
 
 </manifest>
